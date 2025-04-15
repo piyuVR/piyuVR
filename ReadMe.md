@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I'm Piyush Sahani:
 I'm a Student Freelancer and Developer with Machine Learning Enthusiast<br>I’m looking to collaborate on innovative ML and full-stack projects 
 
 
